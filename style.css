@@ -1,10 +1,9 @@
-.bg-orange{
-  background-image: radial-gradient(orange, orangered);
+.bg-img{
+  background-image: url(top-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
-}
-
-.btn{
-  margin-bottom: 10px;
+  min-height: 48vh;
 }
 
 .bg-blue{
