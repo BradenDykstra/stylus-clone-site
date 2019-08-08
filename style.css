@@ -1,0 +1,17 @@
+.bg-orange{
+  background-image: radial-gradient(orange, orangered);
+  color: white;
+}
+
+.btn{
+  margin-bottom: 10px;
+}
+
+.bg-blue{
+  background-color: #009bdf;
+  color: white;
+}
+
+.bg-dark{
+  color: white;
+}
